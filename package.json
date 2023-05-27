@@ -1,0 +1,22 @@
+{
+  "name": "genmusic",
+  "version": "1.0.0",
+  "description": "## Generative Music Vanilla Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megapixel99/genmusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megapixel99/genmusic/issues"
+  },
+  "homepage": "https://github.com/Megapixel99/genmusic#readme",
+  "dependencies": {
+    "web-audio-engine": "^0.13.4"
+  }
+}
