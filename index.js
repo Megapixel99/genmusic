@@ -1,4 +1,4 @@
-const musicEngine = require('./dev/MusicEngine.js');
+const musicEngine = require('./MusicEngine.js');
 
 let length = 60; // 1 hour
 
